@@ -1,0 +1,40 @@
+﻿  Core.cpp
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\Core.cpp(76,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\Core.cpp(76,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_sdl.cpp
+  imgui_sdl.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  MapGenerator.cpp
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(182,26): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(182,54): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(182,82): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(182,101): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(183,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(183,48): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(183,72): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(183,89): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(184,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(184,48): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(184,72): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(184,89): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(185,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(185,48): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(185,72): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(186,50): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(186,92): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(187,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(187,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(187,69): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(188,23): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(188,46): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\SDL2 Map Generation\SDL2 Map Generation\MapGenerator.cpp(188,69): warning C4305: '=': truncation from 'double' to 'float'
+  Source.cpp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 5961 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDL2 Map Generation.vcxproj -> D:\repos\SDL2 Map Generation\x64\Release\SDL2 Map Generation.exe
