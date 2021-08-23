@@ -8,5 +8,5 @@ Map generation using several types of Noise functions using FastNoiseLite.
 [glm](https://github.com/g-truc/glm)\
 [spdlog](https://github.com/gabime/spdlog)\
 [imgui](https://github.com/ocornut/imgui)\
-[imgui_sdl](https://github.com/Tyyppi77/imgui_sdl)\
+[imgui_sdl](https://github.com/Tyyppi77/imgui_sdl)
 
