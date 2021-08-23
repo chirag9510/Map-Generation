@@ -1,6 +1,6 @@
-# Map Generation
+# Map Generator
 
-![alt text](https://github.com/chirag9510/Map-Generation/blob/master/img/map%20generation.gif)
+![alt text](https://github.com/chirag9510/Map-Generation/blob/master/img/map%20generator.gif)
 
 Map generation using several types of Noise functions using FastNoiseLite. 
 
