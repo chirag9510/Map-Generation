@@ -1,4 +1,4 @@
-Map Generation
+#Map Generation
 
 ![alt text](https://github.com/chirag9510/Map-Generation/blob/master/img/map%20generation.gif)
 
